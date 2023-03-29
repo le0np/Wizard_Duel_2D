@@ -1,3 +1,4 @@
-This is my first Python project and just a simple 2player Wizard duel game. 
-Blue wizard is controled with W,S,A,D and shoots with LCTRL 
-Red wizard is controled with arrow keys and shoots with RCTRL
+This is my first Python project and just a simple 2-player Wizard duel game. 
+Blue wizard is controlled with W,S,A,D and shoots with LCTRL.
+The red wizard is controlled with arrow keys and shoots with RCTRL.
+The assets folder contains image and sound files for the game 
